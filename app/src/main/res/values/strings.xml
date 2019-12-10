@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menna_W_Fena</string>
+    <string name="TODO" logo="logo">my logo </string>
+    <string name="logo2">logo2 </string>
+    <string name="line">line </string>
+    <string name="no_one_has_ever_become_poor_by_giving">No one has ever become poor by giving</string>
+    <string name="SignUp">Sign Up </string>
+    <string name="SignIn">Sign In </string>
+    <string name="Forgot">Forgot Password? </string>
+    <string name="Welcomeback"> Welcome back</string>
+    <string name="UserName">User Name </string>
+    <string name="non">   </string>
+    <string name="password"> Password </string>
+    <string name="createAcc">Create \n Account</string>
+    <string name="email"> E-mail </string>
+    <string name="birth">  Birth Date  </string>
+    <string name="phone"> Phone  </string>
+    <string name="nookon">   </string>
+
+
+</resources>
